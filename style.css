@@ -1,26 +1,11 @@
-.centralElement{
-    margin: 0 auto;
-
-    display: flex;
-    justify-content: center;
+.aqua{
+    background-color: aqua;
 }
 
-.padding{
-    padding: 35px 45px;
-    background-color: rgb(165, 238, 238);
+.green{
+    background-color: green;
 }
 
-.secondPadding{
-    width: 50px;
-    margin: 0 auto;
-
-    padding: 25px 15px;
-    background-color: aquamarine;
-}
-
-.frame{
-    display: flex;
-    justify-content: center;
-
-    border: 5px solid brown;
+.brown{
+    background-color: brown;
 }
